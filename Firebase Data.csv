@@ -1,6 +1,6 @@
 Hospital Name,Address,Phone,Overall Rating,Beds Available,Doctors on Duty,Cardio Rating,Neuro Rating,Ortho Rating,Distance 
-Hospital 1,'7,MG Road',8269109630,3,19,17,1,2,5,56
-Hospital 2,'21,Gorbachev Road',8965742779,4,10,13,4,2,4,26
-Hospital 3,'48,Heisenberg Road',3478905564,3,11,2,5,3,3,67
-Hospital 4,'45,Mall Road',5678990453,3,23,8,5,4,4,12
-Hospital 5,'67,Park Street',8897634096,5,16,21,5,5,4,8
+Hospital 1,'7-MG Road',8269109630,3,19,17,1,2,5,56
+Hospital 2,'21-Gorbachev Road',8965742779,4,10,13,4,2,4,26
+Hospital 3,'48-Heisenberg Road',3478905564,3,11,2,5,3,3,67
+Hospital 4,'45-Mall Road',5678990453,3,23,8,5,4,4,12
+Hospital 5,'67-Park Street',8897634096,5,16,21,5,5,4,8
